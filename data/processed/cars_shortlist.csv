@@ -1,0 +1,36 @@
+make,base_model,listing_count,median_selling_price,median_km_driven,median_mileage_kmpl,median_engine_cc,median_max_power_bhp,seats,most_common_fuel,most_common_transmission,safety_ncap_stars,safety_needs_manual_lookup
+Maruti,Swift,353,500000.0,60000.0,22.0,1197.0,81.8,5.0,Petrol,Manual,,True
+Maruti,Alto,323,245000.0,42500.0,22.74,796.0,47.3,5.0,Petrol,Manual,,True
+Maruti,Swift Dzire,284,584500.0,60000.0,23.4,1248.0,74.02,5.0,Diesel,Manual,,True
+Maruti,Wagon R,268,225000.0,58671.5,20.51,998.0,67.04,5.0,Petrol,Manual,,True
+Toyota,Innova,185,750000.0,120000.0,12.99,2494.0,100.6,7.0,Diesel,Manual,,True
+Mahindra,Scorpio,147,550000.0,100000.0,13.5,2179.0,120.0,7.0,Diesel,Manual,,True
+Maruti,Ertiga,147,650000.0,70000.0,20.77,1248.0,88.76,7.0,Diesel,Manual,,True
+Hyundai,Verna,142,525000.0,80000.0,22.32,1582.0,126.3,5.0,Diesel,Manual,,True
+Ford,Figo,127,250000.0,80000.0,20.0,1399.0,68.05,5.0,Diesel,Manual,,True
+Hyundai,i20,120,570000.0,50000.0,18.6,1197.0,81.83,5.0,Petrol,Manual,,True
+Tata,Indigo,113,200000.0,90000.0,19.09,1396.0,69.01,5.0,Diesel,Manual,,True
+Hyundai,Grand i10,103,500000.0,40000.0,18.9,1197.0,81.86,5.0,Petrol,Manual,,True
+Mahindra,Bolero 2011-2019,97,509999.0,80000.0,15.96,2523.0,62.1,7.0,Diesel,Manual,,True
+Maruti,Alto LXi,92,145000.0,70000.0,19.7,796.0,46.3,5.0,Petrol,Manual,,True
+Hyundai,Creta,88,1000000.0,50000.0,19.67,1582.0,126.2,5.0,Diesel,Manual,,True
+Hyundai,Santro Xing,84,150000.0,80000.0,17.92,1086.0,62.1,5.0,Petrol,Manual,,True
+Hyundai,Xcent,82,500000.0,50000.0,22.27,1191.5,77.91499999999999,5.0,Diesel,Manual,,True
+Ford,EcoSport,81,810000.0,44772.0,22.77,1498.0,98.96,5.0,Diesel,Manual,,True
+Renault,Duster,70,540000.0,90000.0,19.62,1461.0,108.45,5.0,Diesel,Manual,,True
+Tata,Indica,69,90000.0,90000.0,17.2,1396.0,62.0,5.0,Diesel,Manual,,True
+Honda,Jazz,67,550000.0,56494.0,18.2,1199.0,88.7,5.0,Petrol,Manual,,True
+Honda,City i,65,650000.0,60000.0,18.0,1497.0,117.3,5.0,Petrol,Manual,,True
+Toyota,Etios,64,560000.0,70000.0,16.78,1496.0,88.73,5.0,Petrol,Manual,,True
+Chevrolet,Beat,64,170000.0,70000.0,25.44,936.0,57.6,5.0,Diesel,Manual,,True
+Tata,Tiago,63,425000.0,30000.0,23.84,1199.0,84.0,5.0,Petrol,Manual,,True
+BMW,X4 M Sport X xDrive20d,62,5500000.0,8000.0,16.78,1995.0,190.0,5.0,Diesel,Automatic,,True
+Volkswagen,Polo,62,390000.0,70000.0,20.14,1199.0,73.95,5.0,Diesel,Manual,,True
+Skoda,Rapid,62,645000.0,18000.0,14.3,1598.0,103.5,5.0,Petrol,Automatic,,True
+Hyundai,i10 Magna,61,229999.0,67000.0,20.36,1197.0,78.9,5.0,Petrol,Manual,,True
+Mahindra,Bolero,60,317500.0,110000.0,13.6,2523.0,63.0,7.0,Diesel,Manual,,True
+Volkswagen,Vento,59,370000.0,90000.0,20.54,1598.0,103.6,5.0,Diesel,Manual,,True
+Mahindra,Xylo,52,300000.0,120000.0,14.0,2489.0,112.0,8.0,Diesel,Manual,,True
+Maruti,Eeco,52,354000.0,49512.5,15.37,1196.0,73.0,5.0,Petrol,Manual,,True
+Maruti,Baleno Alpha,51,740000.0,38817.0,27.39,1248.0,74.0,5.0,Diesel,Manual,,True
+Toyota,Innova Crysta,50,1675000.0,42163.0,13.24,2443.5,147.8,7.0,Diesel,Manual,,True
