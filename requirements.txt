@@ -1,0 +1,6 @@
+pytest>=8.0
+numpy>=1.24
+scipy>=1.10
+# pyfdm's PyPI package (1.2.0) has a broken sdist -- missing CHANGELOG.md
+# breaks `pip install pyfdm`. Install from GitHub source instead:
+# pip install "git+https://github.com/jwieckowski/pyfdm.git"
